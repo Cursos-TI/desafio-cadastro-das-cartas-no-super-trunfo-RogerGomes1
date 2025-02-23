@@ -71,6 +71,6 @@ int main(){
         estado1,codigo_da_carta1,nome_da_cidade1,populacao1,area1,pib1,numero_de_pontos_turisticos1);
 
     printf("Carta 1:\nEstado: %c\nCódigo: %s\nNome da Cidade: %s\nPopulação: %d\nÁrea: %f km²\nPIB: %f\nNúmero de Pontos Turísticos: %d\n",
-         estado2,codigo_da_carta2,nome_da_cidade2,populacao2,area1,pib2,numero_de_pontos_turisticos2);
+         estado2,codigo_da_carta2,nome_da_cidade2,populacao2,area2,pib2,numero_de_pontos_turisticos2);
 
 }
